@@ -49,7 +49,7 @@ a cpp program for finite element method of impact problem
 	{
 	nodeList.push_back(temp_nodeTable2[i]);
 	}
-	*/
+	
 ```	
 >4月14号，12：00更新
 * 1.由于模式使用还不成熟，只能将杆单元中的材料全换成弹性的，进行V7试算;前一个文件还存在着问题
